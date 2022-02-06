@@ -831,5 +831,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://cdn.jsdelivr.net/gh/lihaomin/FreeD/custom_spider.jar"
+  "spider": "https://cdn.jsdelivr.net/gh/lihaomin/FreeD/custom_spider.txt"
 }
