@@ -1,0 +1,20 @@
+{
+    "spider": "https://raw.githubusercontent.com/LiHaoMin/FreeD/master/custom_spider.jar",
+    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+    "warningText": "warningText",
+    "sites": [
+        {
+            "key": "csp_Aidi",
+            "name": "custom",
+            "type": 3,
+            "api": "csp_Aidi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }
+    ],
+    "parses": [],
+    "doh": [],
+    "rules": [],
+    "lives": []
+}
