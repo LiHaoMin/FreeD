@@ -1,16 +1,25 @@
 {
     "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/LiHaoMin/FreeD/master/custom_spider.jar",
-    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+    "wallpaper": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wwuT?ver=466b",
     "warningText": "warningText",
     "sites": [
         {
+            "key": "csp_Aidi2",
+            "name": "J",
+            "type": 3,
+            "api": "csp_Aidi2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Aidi",
-            "name": "custom",
+            "name": "C",
             "type": 3,
             "api": "csp_Aidi",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         }
     ],
     "parses": [],
